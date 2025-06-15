@@ -15,10 +15,6 @@ A simple mini golf game built with Pygame, featuring realistic ball physics, dyn
 
 ---
 
-## Demo 🎥
-
-[Include a screenshot or GIF of your game here if desired]
-
 ---
 
 ## Prerequisites ✅
